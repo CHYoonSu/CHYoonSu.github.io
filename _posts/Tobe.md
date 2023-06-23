@@ -3,7 +3,6 @@
 ## 소개
 
 - 이름: 최윤수
-- 연락처: 010-9414-4022
 - 이메일: mounoil@naver.com
 - 깃허브: https://chyoonsu.github.io/
 
